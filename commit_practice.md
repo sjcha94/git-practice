@@ -24,4 +24,9 @@
     - 답 : X
     - 이유 : Commits들이 저장된 공간이 repository
 
+5. Commit ID는 중복 가능하다.
+
+    - 답 : X
+    - 이유 : 각 커밋마다 고유한 ID(해시값) 부여
+
 
